@@ -6,19 +6,23 @@ Este projeto é parte de uma proposta didática que integra **Robótica** e **Ó
 
 ---
 
-## Conteúdo do Repositório
+## Arduino + Potenciômetro
 
-O repositório está organizado da seguinte forma:
+Diagrama do Circuito mostrando as Ligações:
 
-- `/Arduino`: Contém todos os códigos-fonte para Arduino.
-  - [Arduino + Potenciômetro](Potenciometro.ino) — Código principal para controle da iluminação usando potenciômetro.
-  - ![Circuito Mostrando as Ligações](PotArd.png)
-- `/Documentacao`: Arquivos explicativos e diagramas do circuito.
-  - `EsquemaCircuito.pdf` — Diagrama completo da montagem do experimento.
-  - `GuiaMontagem.md` — Passo a passo para montar a estrutura e o circuito.
-- `/Imagens`: Fotos ilustrativas do experimento em funcionamento.
+![Circuito Mostrando as Ligações](PotArd.png)
 
----
+Código principal para controle da iluminação usando potenciômetro:
+
+  - [Arduino + Potenciômetro](Potenciometro.ino)
+    
+Materiais necessários
+
+  - Arduino Uno;
+  - Potenciômetro 10 kΩ;
+  - 2 LEDs brancos de alto brilho;
+  - Resistores 100 Ω;
+  - Fios e protoboard.
 
 ## Materiais necessários
 

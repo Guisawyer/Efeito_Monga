@@ -11,7 +11,7 @@ Este projeto é parte de uma proposta didática que integra **Robótica** e **Ó
 O repositório está organizado da seguinte forma:
 
 - `/Arduino`: Contém todos os códigos-fonte para Arduino.
-  - `ControleIluminacao.ino` — Código principal para controle da iluminação usando potenciômetro.
+  - `Potenciometro.ino` — Código principal para controle da iluminação usando potenciômetro.
   - `TesteLED.ino` — Exemplo básico de teste de LEDs e resistência.
 - `/Documentacao`: Arquivos explicativos e diagramas do circuito.
   - `EsquemaCircuito.pdf` — Diagrama completo da montagem do experimento.

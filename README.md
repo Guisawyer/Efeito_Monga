@@ -12,7 +12,7 @@ O repositório está organizado da seguinte forma:
 
 - `/Arduino`: Contém todos os códigos-fonte para Arduino.
   - [Arduino + Potenciômetro](Potenciometro.ino) — Código principal para controle da iluminação usando potenciômetro.
-  - `TesteLED.ino` — Exemplo básico de teste de LEDs e resistência.
+  - ![Circuito Mostrando as Ligações](PotArd.png)
 - `/Documentacao`: Arquivos explicativos e diagramas do circuito.
   - `EsquemaCircuito.pdf` — Diagrama completo da montagem do experimento.
   - `GuiaMontagem.md` — Passo a passo para montar a estrutura e o circuito.

@@ -9,11 +9,12 @@ Este projeto é parte de uma proposta didática que integra **Robótica** e **Ó
 ## Arduino + Potenciômetro
 
 Diagrama do Circuito mostrando as Ligações:
-
 ![Circuito Mostrando as Ligações](PotArd.png)
 
-Código principal para controle da iluminação usando potenciômetro:
+Simulação no Tinkercad:
+   - [Simulador no Tinkercar](https://www.tinkercad.com/things/20kknMUIpUK-iluminacao-usando-potenciometro?sharecode=ai6lIu64ALiIXyDZuIvr-SprHF9KPNWgTUGGUGX8-G0)
 
+Código principal para controle da iluminação usando potenciômetro:
   - [Arduino + Potenciômetro](Potenciometro.ino)
     
 Materiais necessários

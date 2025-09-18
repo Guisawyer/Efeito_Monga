@@ -47,6 +47,7 @@ Materiais necessários
 ## Referências
 
 - [Tinkercad](https://www.tinkercad.com/dashboard) — Simulação de circuitos e prototipagem virtual.
+- [Artigo]() Artigo em espera.
 
 
 ---

@@ -12,7 +12,26 @@ Diagrama do Circuito mostrando as Ligações:
 ![Circuito Mostrando as Ligações](PotArd.png)
 
 Simulação no Tinkercad:
-   - [Simulador no Tinkercar](https://www.tinkercad.com/things/20kknMUIpUK-iluminacao-usando-potenciometro?sharecode=ai6lIu64ALiIXyDZuIvr-SprHF9KPNWgTUGGUGX8-G0)
+   - [Simulador no Tinkercad](https://www.tinkercad.com/things/20kknMUIpUK-iluminacao-usando-potenciometro?sharecode=ai6lIu64ALiIXyDZuIvr-SprHF9KPNWgTUGGUGX8-G0)
+
+Código principal para controle da iluminação usando potenciômetro:
+  - [Arduino + Potenciômetro](Potenciometro.ino)
+    
+Materiais necessários
+
+  - Arduino Uno;
+  - Potenciômetro 10 kΩ;
+  - 2 LEDs brancos de alto brilho;
+  - Resistores 100 Ω;
+  - Fios e protoboard.
+
+## Arduino + Push Button
+
+Diagrama do Circuito mostrando as Ligações:
+![Circuito Mostrando as Ligações](PotArd.png)
+
+Simulação no Tinkercad:
+   - [Simulador no Tinkercad](https://www.tinkercad.com/things/20kknMUIpUK-iluminacao-usando-potenciometro?sharecode=ai6lIu64ALiIXyDZuIvr-SprHF9KPNWgTUGGUGX8-G0)
 
 Código principal para controle da iluminação usando potenciômetro:
   - [Arduino + Potenciômetro](Potenciometro.ino)

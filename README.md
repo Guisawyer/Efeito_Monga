@@ -25,6 +25,8 @@ Materiais necessários
   - 2 Resistores 100 Ω;
   - Fios e protoboard.
 
+---
+
 ## Arduino + Push Button
 
 Diagrama do Circuito mostrando as Ligações:

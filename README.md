@@ -22,7 +22,7 @@ Materiais necessários
   - Arduino Uno;
   - Potenciômetro 10 kΩ;
   - 2 LEDs brancos de alto brilho;
-  - 2 esistores 100 Ω;
+  - 2 Resistores 100 Ω;
   - Fios e protoboard.
 
 ## Arduino + Push Button
@@ -34,7 +34,7 @@ Simulação no Tinkercad:
    - [Simulador no Tinkercad](https://www.tinkercad.com/things/ecqbcfPI4kx-iluminacao-usando-botoes?sharecode=g_ROvi8XSsJWS0bv11aLcfOx-4Wxsi0TJ9ZxMI3u-Kg)
 
 Código principal para controle da iluminação usando potenciômetro:
-  - [Arduino + Push Button](Bot.ino)
+  - [Arduino + Push Button](bot.ino)
     
 Materiais necessários
 

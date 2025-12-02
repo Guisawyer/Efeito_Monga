@@ -21,7 +21,7 @@ Materiais necessários
 
   - Arduino Uno;
   - Potenciômetro 10 kΩ;
-  - 2 LEDs brancos de alto brilho;
+  - 4 LEDs brancos de alto brilho;
   - 2 Resistores 100 Ω;
   - Fios e protoboard.
 
@@ -42,7 +42,7 @@ Materiais necessários
 
   - Arduino Uno;
   - 2 Push Button;
-  - 2 LEDs brancos de alto brilho;
+  - 4 LEDs brancos de alto brilho;
   - 2 Resistores 100 Ω;
   - Fios e protoboard.
 

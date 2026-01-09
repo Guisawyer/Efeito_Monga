@@ -52,9 +52,8 @@ Colocar Link do projeto
 
 ## Projeto para usar Acrílico
 
-Colocar Link do projeto
-
-
+Plano de corte para a montagem com Acrílico
+![Plano de Corte](Acrilico.png)
 
 ## Referências
 

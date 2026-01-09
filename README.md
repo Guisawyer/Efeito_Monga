@@ -46,6 +46,16 @@ Materiais necessários
   - 2 Resistores 100 Ω;
   - Fios e protoboard.
 
+## Projeto para a Impressora 3D
+
+Colocar Link do projeto
+
+## Projeto para usar Acrílico
+
+Colocar Link do projeto
+
+
+
 ## Referências
 
 - [Tinkercad](https://www.tinkercad.com/dashboard) — Simulação de circuitos e prototipagem virtual.

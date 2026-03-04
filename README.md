@@ -48,7 +48,8 @@ Materiais necessários
 
 ## Projeto para a Impressora 3D
 
-Colocar Link do projeto
+Arquivo para Impressora 3D
+![Monga3D](Minga.stl)
 
 ## Projeto para usar Acrílico
 

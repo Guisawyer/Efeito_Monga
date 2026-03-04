@@ -48,7 +48,7 @@ Materiais necessários
 
 ## Projeto para a Impressora 3D
 
-Arquivo para Impressora 3D
+Arquivo para Impressora 3D: 
 [Monga3D](Monga.stl)
 
 ## Projeto para usar Acrílico

@@ -22,7 +22,7 @@ Materiais necessários
   - Arduino Uno;
   - Potenciômetro 10 kΩ;
   - 4 LEDs brancos de alto brilho;
-  - 2 Resistores 100 Ω;
+  - 4 Resistores 220 Ω;
   - Fios e protoboard.
 
 ---
@@ -43,7 +43,7 @@ Materiais necessários
   - Arduino Uno;
   - 2 Push Button;
   - 4 LEDs brancos de alto brilho;
-  - 2 Resistores 100 Ω;
+  - 2 Resistores 220 Ω;
   - Fios e protoboard.
 
 ## Projeto para a Impressora 3D

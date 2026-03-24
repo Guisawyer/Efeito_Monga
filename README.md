@@ -9,7 +9,7 @@ Este projeto é parte de uma proposta didática que integra **Robótica** e **Ó
 ## Arduino + Potenciômetro
 
 Diagrama do Circuito mostrando as Ligações:
-![Circuito Mostrando as Ligações](PotArd.png)
+![Circuito Mostrando as Ligações](Fig11.png)
 
 Simulação no Tinkercad:
    - [Simulador no Tinkercad](https://www.tinkercad.com/things/20kknMUIpUK-iluminacao-usando-potenciometro?sharecode=ai6lIu64ALiIXyDZuIvr-SprHF9KPNWgTUGGUGX8-G0)
@@ -30,7 +30,7 @@ Materiais necessários
 ## Arduino + Push Button
 
 Diagrama do Circuito mostrando as Ligações:
-![Circuito Mostrando as Ligações](TinkerBot.png)
+![Circuito Mostrando as Ligações](Fig13.png)
 
 Simulação no Tinkercad:
    - [Simulador no Tinkercad](https://www.tinkercad.com/things/ecqbcfPI4kx-iluminacao-usando-botoes?sharecode=g_ROvi8XSsJWS0bv11aLcfOx-4Wxsi0TJ9ZxMI3u-Kg)

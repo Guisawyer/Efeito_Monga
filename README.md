@@ -49,7 +49,12 @@ Materiais necessários
 ## Projeto para a Impressora 3D
 
 Arquivo para Impressora 3D: 
-![Monga3D](Monga.stl)
+![Paredes](Monga.stl)
+![Teto](Tampa.STL)
+
+Maquete com a Impressora 3D:
+![MOnga3d](Monga3d.jpg)
+
 
 ## Projeto para usar Acrílico
 

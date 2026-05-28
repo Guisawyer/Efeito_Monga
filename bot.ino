@@ -1,7 +1,7 @@
 #define Led1 10		// Define a variavel Led1 a porta digital 10 (PWM)
 #define Led2 11		// Define a variavel Led2 a porta digital 11 (PWM)
-#define Led3 6		// Define a variavel Led1 a porta digital 6  (PWM)
-#define Led4 5		// Define a variavel Led2 a porta digital 5  (PWM)
+#define Led3 6		// Define a variavel Led3 a porta digital 6  (PWM)
+#define Led4 5		// Define a variavel Led4 a porta digital 5  (PWM)
 
 #define Bot12 9		// Define a variavel Bot12 a porta digital 9 (PWM) Controla os LEDs 1 e 2
 #define Bot34 3		// Define a variavel Bot34 a porta digital 3 (PWM) Controla os LEDs 3 e 4

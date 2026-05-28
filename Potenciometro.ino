@@ -1,7 +1,7 @@
 #define Led1 10		// Define a variavel Led1 a porta digital 10 (PWM)
 #define Led2 11		// Define a variavel Led2 a porta digital 11 (PWM)
-#define Led3 6		// Define a variavel Led1 a porta digital 6  (PWM)
-#define Led4 5		// Define a variavel Led2 a porta digital 5  (PWM)
+#define Led3 6		// Define a variavel Led3 a porta digital 6  (PWM)
+#define Led4 5		// Define a variavel Led4 a porta digital 5  (PWM)
 
 void setup() {
   pinMode(Led1, OUTPUT);		// Declara a porta do Led1 como sendo saida

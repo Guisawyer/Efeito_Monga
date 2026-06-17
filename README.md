@@ -9,6 +9,7 @@ Este projeto é parte de uma proposta didática que integra **Robótica** e **Ó
 ## Arduino + Potenciômetro
 
 Diagrama do Circuito mostrando as Ligações:
+
 ![Circuito Mostrando as Ligações](Fig11.png)
 
 Simulação no Tinkercad:
@@ -30,6 +31,7 @@ Materiais necessários
 ## Arduino + Push Button
 
 Diagrama do Circuito mostrando as Ligações:
+
 ![Circuito Mostrando as Ligações](Fig13.png)
 
 Simulação no Tinkercad:

@@ -66,7 +66,7 @@ Plano de corte para a montagem com Acrílico
 ## Referências
 
 - [Tinkercad](https://www.tinkercad.com/dashboard) — Simulação de circuitos e prototipagem virtual.
-- [Artigo](https://www.scielo.br/j/rbef/a/vcbwdLSWmYnhTYHkWL4MmPn/?lang=pt) — Artigo.
+- [Artigo](https://www.scielo.br/j/rbef/a/vcbwdLSWmYnhTYHkWL4MmPn/?lang=pt) — Integração entre Óptica e Robótica: atividade prática com o efeito Monga com controle de iluminação via Arduino.
 
 
 ---

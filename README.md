@@ -66,7 +66,7 @@ Plano de corte para a montagem com Acrílico
 ## Referências
 
 - [Tinkercad](https://www.tinkercad.com/dashboard) — Simulação de circuitos e prototipagem virtual.
-- [Artigo]() — Artigo em espera.
+- [Artigo](https://www.scielo.br/j/rbef/a/vcbwdLSWmYnhTYHkWL4MmPn/?lang=pt) — Artigo.
 
 
 ---
